@@ -15,7 +15,7 @@ Users should be able to:
 ![](./desktop.jpg)
 
 ## Mobile
-![](./mobile.jpg.jpg)
+![](./mobile.jpg)
 
 
 ### Links
